@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shamim — an engineer, automation nerd & simulation junkie.
 
-I build interactive engineering tools using **Python**, **Streamlit**, and **control systems logic** — like [Smart Mixer](https://yourapp.streamlit.app), a real-time mass balance simulator for salt mixing tanks 🧂💧.
+I build interactive engineering tools using **Python**, **Streamlit**, and **control systems logic** — like [Smart Mixer](https://smart-mixer.streamlit.app/), a real-time mass balance simulator for salt mixing tanks 🧂💧.
 
 ---
 
@@ -26,7 +26,7 @@ I build interactive engineering tools using **Python**, **Streamlit**, and **con
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamimsulaiman/)
-- 🌐 [Live App](https://yourapp.streamlit.app)
+- 🌐 [Live App](https://smart-mixer.streamlit.app/)
 
 ---
 
