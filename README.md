@@ -29,6 +29,3 @@ I build interactive engineering tools using **Python**, **Streamlit**, and **con
 - 🌐 [Live App](https://smart-mixer.streamlit.app/)
 
 ---
-
-📬 Wanna collaborate or geek out about control systems?  
-Let’s build something cool together!
