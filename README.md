@@ -32,8 +32,3 @@ A Python-based gateway that bridges Modbus RTU and MQTT to enable IIoT connectiv
 > `Modbus RTU` · `MQTT` · `Raspberry Pi` · `Industrial IoT`
 
 ---
-
-## 📫 Connect with Me
-
-- 🌐 [shamimsulaiman.com](https://shamimsulaiman.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamim-sulaiman)
