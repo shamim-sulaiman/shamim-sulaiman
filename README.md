@@ -20,12 +20,11 @@ I build interactive engineering tools using **Python**, **Streamlit**, and **con
 
 ### 🔧 Tech Stack
 `Python` `Streamlit` `Matplotlib` `pandas` `simple-pid`  
-`PLC` `DCS` `Instrumentation` `Control Theory`
+`PLC` `DCS` `Instrumentation` `Control Theory` 
 
 ---
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamimsulaiman/)
-- 🌐 [Live App](https://smart-mixer.streamlit.app/)
-
+  
 ---
