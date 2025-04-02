@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shamim Sulaiman
+# 👋 Hi, I'm Shamim
 
 A chemical engineer turned automation & AI enthusiast — building smart, scalable systems that blend industrial control with intelligent automation. I love working on projects that combine:
 
