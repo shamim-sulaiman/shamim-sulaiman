@@ -1,30 +1,39 @@
-## Hi there 👋 I'm Shamim — an engineer, automation nerd & simulation junkie.
+# 👋 Hi, I'm Shamim Sulaiman
 
-I build interactive engineering tools using **Python**, **Streamlit**, and **control systems logic** — like [Smart Mixer](https://smart-mixer.streamlit.app/), a real-time mass balance simulator for salt mixing tanks 🧂💧.
+A chemical engineer turned automation & AI enthusiast — building smart, scalable systems that blend industrial control with intelligent automation. I love working on projects that combine:
 
----
-
-### 🌱 Currently Learning
-- Building web-based tools using Python + Streamlit
-- Integrating PLC with Python scripting for automation
-- Exploring AI/ML frameworks for industrial applications
+- 💡 Machine Learning
+- ⚙️ PLC/SCADA systems
+- 🌐 IIoT (Modbus, MQTT, OPC UA)
+- 🧪 Simulation & predictive analytics
 
 ---
 
-### 🔭 Currently Working On
-- Bridging process engineering with automation logic
-- Simulating real-world systems (PID, disturbances, control loops)
-- Designing dashboards that are actually fun to use
+## 🚀 Featured Projects
+
+### 🔧 [ML Predictive Maintenance](https://github.com/shamim-sulaiman/ml-predictive-maintenance)
+An AI-powered Streamlit dashboard that forecasts pump health using multi-output time series models.  
+Supports OPC UA integration and custom model training.
+
+> `Streamlit` · `scikit-learn` · `pandas` · `MultiOutputRegressor`
 
 ---
 
-### 🔧 Tech Stack
-`Python` `Streamlit` `Matplotlib` `pandas` `simple-pid`  
-`PLC` `DCS` `Instrumentation` `Control Theory` 
+### 🧪 [Smart Mixer Simulation](https://github.com/shamim-sulaiman/smart-mixer)
+A simulated smart mixing tank with Python logic for mass balance, automation control, and animated visualization.
+
+> `Python` · `Streamlit` · `Control Logic` · `Simulation`
 
 ---
 
-### 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamimsulaiman/)
-  
+### 🌐 [Modbus-MQTT Gateway for Raspberry Pi](https://github.com/shamim-sulaiman/modbus-mqtt-pi-gateway)
+A Python-based gateway that bridges Modbus RTU and MQTT to enable IIoT connectivity for legacy PLC systems.
+
+> `Modbus RTU` · `MQTT` · `Raspberry Pi` · `Industrial IoT`
+
 ---
+
+## 📫 Connect with Me
+
+- 🌐 [shamimsulaiman.com](https://shamimsulaiman.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamim-sulaiman)
