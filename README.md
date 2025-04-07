@@ -19,7 +19,7 @@ Supports OPC UA integration and custom model training.
 
 ---
 
-### 🧪 [Smart Mixer Simulation](https://github.com/shamim-sulaiman/smart-mixer)
+### 🧪 [Smart Mixing Tank Simulation](https://github.com/shamim-sulaiman/smart-mixer)
 A simulated smart mixing tank with Python logic for mass balance, automation control, and animated visualization.
 
 > `Python` · `Streamlit` · `Control Logic` · `Simulation`
